@@ -6,7 +6,9 @@ public class Ejercicio05 {
 
 	public static void main(String[] args) {
 		Scanner teclado = new Scanner(System.in);
-		
+	
+// Realiza un programa que resuelva una ecuación de primer grado (del tipo: ax+b = 0).
+
 		double a;
 		double b;
 		double x;
